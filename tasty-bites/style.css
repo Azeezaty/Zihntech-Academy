@@ -348,7 +348,9 @@ footer{
     height: 50vh;
 }
 .div1 {
-    flex: 1;
+    flex: 1.;
+    padding: 20px;
+    
 } 
 .div1 p {
     line-height: 1.7;
@@ -381,7 +383,7 @@ footer h6 {
 }
 .div3, .div4 {
     flex: 1.2;
-    min-width: 220px;
+  
 }
 .div3 p {
     margin-bottom: 14px;
@@ -403,7 +405,7 @@ footer h6 {
 /* Copyright bar */
 .footer-bottom {
     text-align: center;
-  width: 100%;
+    width: 100%;
     font-style: italic;
     background-color:#cfc01f ;
 }
