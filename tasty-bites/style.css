@@ -348,7 +348,7 @@ footer{
     height: 50vh;
 }
 .div1 {
-    flex: 1;  
+    flex: 1;
 } 
 .div1 p {
     line-height: 1.7;
@@ -375,7 +375,6 @@ footer h6 {
     min-width: 180px;
 }
  .div2 ul{
-    
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -384,7 +383,6 @@ footer h6 {
     flex: 1.2;
     min-width: 220px;
 }
-
 .div3 p {
     margin-bottom: 14px;
 }
@@ -412,3 +410,4 @@ footer h6 {
 footer .logo{
     margin: 0px;
 }
+
