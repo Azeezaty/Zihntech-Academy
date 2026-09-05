@@ -18,13 +18,14 @@ header{
     top: 0;
     left: 0;
     width: 100%;
+    z-index: 1000;
 }
 .menuIcon{
     font-size: 25px;
 }
 .logo{
     width: 100px;
-    margin-left: -50px;
+    margin-left: 23px;
 }
 nav ul{
     display: flex;
@@ -69,7 +70,7 @@ header .number{
     background-repeat: no-repeat;
     display: flex;
     align-items: center;
-    padding-left: 80px;
+   margin-left: -30px;
 }
 
 .heroSection{
@@ -331,7 +332,7 @@ a span{
 }
 /* Footer */
 footer{
-    background-color: #b99e06;
+    background-color: #5F8A2A;
     color: white;
     display: flex;
     justify-content: space-between;
@@ -403,9 +404,9 @@ footer h6 {
     text-align: center;
     width: 100%;
     font-style: italic;
-    background-color:#cfc01f ;
+    background-color:#67b20a ;
+    margin-top: -10px;
 }
 footer .logo{
     margin: 0px;
 }
-
